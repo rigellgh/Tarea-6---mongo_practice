@@ -1,4 +1,4 @@
-const connectDB = require('./config/db');
+const connectDB = require('./db');
 const User = require('./models/User');
 
 // Conectar a la DB
